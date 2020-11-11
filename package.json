@@ -1,0 +1,20 @@
+{
+  "name": "metaspace_website",
+  "version": "1.0.0",
+  "description": "git submodule update --init --recursive hugo server -t hermit",
+  "main": "index.js",
+  "scripts": {
+    "start": "hugo server -t hermit",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadbox/MetaSpace_website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jadbox/MetaSpace_website/issues"
+  },
+  "homepage": "https://github.com/jadbox/MetaSpace_website#readme"
+}
