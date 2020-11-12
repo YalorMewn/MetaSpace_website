@@ -33,11 +33,11 @@ disableKinds = ["RSS"]
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "A vision for we as a community hope to bring into existence."
+  description = "Creating a Space for Exploration."
   images = ["images/metaspace_logo.jpg"]
   themeColor = "#494f5c"
 
-  homeSubtitle = "A vision for we as a community hope to bring into existence."
+  homeSubtitle = "Creating a Space for Exploration."
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
