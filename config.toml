@@ -33,11 +33,11 @@ disableKinds = ["RSS"]
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Creating a Space for Exploration."
+  description = "A Web3 Hub For Wellness."
   images = ["images/metaspace_logo.jpg"]
   themeColor = "#494f5c"
 
-  homeSubtitle = "Creating a Space for Exploration."
+  homeSubtitle = "A Web3 Hub For Wellness."
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
@@ -76,7 +76,7 @@ disableKinds = ["RSS"]
     weight = 10
 
   [[menu.main]]
-    name = "Blog"
+    name = "Articles"
     url = "https://metaspace.substack.com/"
     weight = 20
     

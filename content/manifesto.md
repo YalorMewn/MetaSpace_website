@@ -1,5 +1,5 @@
 ---
-title: "🌈The MetaSpace Community Metafesto🌈"
+title: "The MetaSpace Community Metafesto"
 date: 2020-08-04T18:25:02-07:00
 draft: false
 ---
@@ -15,7 +15,7 @@ We aren’t here to preach any dogma or try to convince you of anything. We beli
 We don’t know what all MetaSpace is, we only know what it can be. If you believe in this too or are simply curious, join us some time and connect.
 
 
-### 📜 We believe ….
+### We believe ….
 
 - In something bigger than just one person or organization. 
 - We each have the capacity to be exactly who we are and share our unique gifts with the world.
@@ -33,7 +33,9 @@ We don’t know what all MetaSpace is, we only know what it can be. If you belie
 - Our environments affect and shape who we become.
 - We all have the right to choose.
 - We are the creators of our own reality.
-:earth_africa: :earth_americas: :earth_asia: We want to live in a world where...
+:earth_africa: :earth_americas: :earth_asia: 
+
+### We want to live in a world where...
 
 - We don’t have to worry about if our basic needs can be met.
 - All people are free and believe they are free.
