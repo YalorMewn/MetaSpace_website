@@ -33,7 +33,6 @@ We don’t know what all MetaSpace is, we only know what it can be. If you belie
 - Our environments affect and shape who we become.
 - We all have the right to choose.
 - We are the creators of our own reality.
-:earth_africa: :earth_americas: :earth_asia: 
 
 ### We want to live in a world where...
 
@@ -47,6 +46,6 @@ We don’t know what all MetaSpace is, we only know what it can be. If you belie
 - People are embodied.
 - People feel connected to the universe.
 
-#### Welcome 🌹, come join us on [Discord](https://discord.gg/fESVeGB)
+#### Welcome, come join us on [Discord](https://discord.gg/fESVeGB)
 
 #### [<< Back](/)
