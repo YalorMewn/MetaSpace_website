@@ -13,8 +13,8 @@ html {
   background-position: center;
 }
 
-html div:first-child {
-  background: rgba(255, 255, 255, 0.886);
+html body {
+  background: rgba(255, 255, 255, 0.686);
   padding: 1.5em;
   background-blend-mode: multiply;
 }
