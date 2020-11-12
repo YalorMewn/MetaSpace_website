@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://whalerdao.org/</loc>
+    <lastmod>2020-08-17T18:44:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whalerdao.org/whalertalk/</loc>
+    <lastmod>2020-08-17T18:44:21-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whalerdao.org/post/</loc>
+    <lastmod>2020-08-04T18:25:02-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whalerdao.org/manifesto/</loc>
+    <lastmod>2020-08-04T18:25:02-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whalerdao.org/post/0/</loc>
+    <lastmod>2020-08-04T18:25:02-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whalerdao.org/post/1/</loc>
+    <lastmod>2020-08-04T18:25:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://whalerdao.org/tags/</loc>
+  </url>
+  
+</urlset>
