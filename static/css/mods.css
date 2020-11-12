@@ -1,3 +1,8 @@
+:root{
+  --MAIN-LINK-HOVER-color:#167ad0;
+  --MENU-SECTIONS-LINK-HOVER-color: #5c92f7;
+}
+
 .content img {
   width: 66%;
   height: auto;
@@ -25,6 +30,22 @@ html body {
 
 h1, h2, h3, h4, h5, h6, p, ul, li, a {
   color: black;
+}
+
+#body a.highlight:after {
+  display: block;
+  content: "";
+  height: 1px;
+  width: 0%;
+  -webkit-transition: width 0.5s ease;
+  -moz-transition: width 0.5s ease;
+  -ms-transition: width 0.5s ease;
+  transition: width 0.5s ease;
+  background-color: var(--MAIN-LINK-HOVER-color);
+}
+
+a:hover {
+  color: var(--MAIN-LINK-HOVER-color);
 }
 
 #site-header {
