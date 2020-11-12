@@ -15,7 +15,7 @@ We aren’t here to preach any dogma or try to convince you of anything. We beli
 We don’t know what all MetaSpace is, we only know what it can be. If you believe in this too or are simply curious, join us some time and connect.
 
 
-### We believe ….
+### We believe...
 
 - In something bigger than just one person or organization. 
 - We each have the capacity to be exactly who we are and share our unique gifts with the world.
