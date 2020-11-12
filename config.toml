@@ -79,3 +79,8 @@ disableKinds = ["RSS"]
     name = "Blog"
     url = "https://metaspace.substack.com/"
     weight = 20
+    
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

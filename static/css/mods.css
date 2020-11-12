@@ -14,7 +14,7 @@ html {
 }
 
 html body {
-  background: rgba(255, 255, 255, 0.686);
+  background: rgba(255, 255, 255, 0.86);
   padding: 1.5em;
   background-blend-mode: multiply;
 }
@@ -25,7 +25,6 @@ html body {
 
 h1, h2, h3, h4, h5, h6, p, ul, li, a {
   color: black;
-  font-family: Merriweather;
 }
 
 #site-header {

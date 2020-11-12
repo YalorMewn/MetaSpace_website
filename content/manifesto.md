@@ -4,7 +4,7 @@ date: 2020-08-04T18:25:02-07:00
 draft: false
 ---
 
-MetaSpace is a people based platform created by a collective of teachers, healers, and counselors specifically for the Web3 community. It is a hub for all things holistic; a  place to find and explore tools to assist you with your physical, emotional, mental and spiritual well being. We each create our own reality, and we  aim to empower people to create the reality they want to live in. We want people to feel a connection with themselves and their community. When people have a deeper sense of connection they have more energy and resources behind them so they and their contribution to the world can deepen, and grow.
+<span style="font-size:1.4em;">M</span>etaSpace is a people based platform created by a collective of teachers, healers, and counselors specifically for the Web3 community. It is a hub for all things holistic; a  place to find and explore tools to assist you with your physical, emotional, mental and spiritual well being. We each create our own reality, and we  aim to empower people to create the reality they want to live in. We want people to feel a connection with themselves and their community. When people have a deeper sense of connection they have more energy and resources behind them so they and their contribution to the world can deepen, and grow.
 
 We have no agenda other than to be of service to others. To bridge a gap between those working to build platforms to lift society and those helping people become more clear individuals. Together, we can move forward in the right direction. 
 
@@ -14,7 +14,8 @@ We aren’t here to preach any dogma or try to convince you of anything. We beli
 
 We don’t know what all MetaSpace is, we only know what it can be. If you believe in this too or are simply curious, join us some time and connect.
 
-📜 We believe ….
+
+### 📜 We believe ….
 
 - In something bigger than just one person or organization. 
 - We each have the capacity to be exactly who we are and share our unique gifts with the world.
@@ -43,3 +44,5 @@ We don’t know what all MetaSpace is, we only know what it can be. If you belie
 - Everyone is clear in their body, mind and soul.
 - People are embodied.
 - People feel connected to the universe.
+
+**Welcome 🌹**
