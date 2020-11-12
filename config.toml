@@ -1,8 +1,8 @@
 relativeUrls = true
-baseURL = "https://whalerdao.org"
+baseURL = "https://MetaSpace.org"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "WhalerDAO"
+title = "MetaSpace"
 theme = "hermit"
 favicon = "favicon.ico"
 # enableGitInfo = true
@@ -15,7 +15,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 disableKinds = ["RSS"]
 
 [author]
-  name = "🐋WhalerDAO"
+  name = "🌈MetaSpace"
 
 [blackfriday]
   # hrefTargetBlank = true
@@ -33,11 +33,11 @@ disableKinds = ["RSS"]
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Fighting DeFi whales to save the world"
-  images = ["images/Whalers-on-the-Moon.jpg"]
+  description = "A vision for we as a community hope to bring into existence."
+  images = ["images/metaspace_logo.jpg"]
   themeColor = "#494f5c"
 
-  homeSubtitle = "Fighting DeFi whales to save the world"
+  homeSubtitle = "A vision for we as a community hope to bring into existence."
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   # bgImg = ""  # Homepage background-image URL
 
@@ -58,19 +58,15 @@ disableKinds = ["RSS"]
   # Check https://github.com/Track3/hermit#social-icons for more info.
   [[params.social]]
     name = "discord"
-    url = "https://discord.gg/CHxxasF"
+    url = "https://discord.gg/fESVeGB"
 
   [[params.social]]
     name = "twitter"
-    url = "https://twitter.com/WhalerDAO"
+    url = "https://twitter.com/MetaSpace_Now"
 
   [[params.social]]
-    name = "discourse"
-    url = "https://forum.whalerdao.org/"
-
-  [[params.social]]
-    name = "github"
-    url = "https://github.com/WhalerDAO"
+    name = "instagram"
+    url = "https://instagram.com/MetaSpace_Now"
 
 [menu]
 
@@ -80,21 +76,6 @@ disableKinds = ["RSS"]
     weight = 10
 
   [[menu.main]]
-    name = "Posts"
-    url = "post/"
+    name = "Blog"
+    url = "https://metaspace.substack.com/"
     weight = 20
-
-  [[menu.main]]
-    name = "WhalerTalk"
-    url = "whalertalk"
-    weight = 30
-  
-  [[menu.main]]
-    name = "Apply for membership"
-    url = "https://forum.whalerdao.org/t/dao-membership-proposals-thread/18"
-    weight = 40
-
-  [[menu.main]]
-    name = "DAO"
-    url = "https://idchain.pokemol.com/dao/0x052f73d951b1f579c86ce3cd20a5ddbabd904f68/"
-    weight = 50
