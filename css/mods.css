@@ -1,0 +1,54 @@
+.content img {
+  width: 66%;
+  height: auto;
+  border-color: rgb(81, 0, 0);
+  border-style: dotted;
+}
+
+html {
+  background: white;
+  background-image: url('/metaspace_logo.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+html div:first-child {
+  background: rgba(255, 255, 255, 0.886);
+  padding: 1.5em;
+  background-blend-mode: multiply;
+}
+
+#home-subtitle {
+  font-size: .8em;
+}
+
+h1, h2, h3, h4, h5, h6, p, ul, li, a {
+  color: black;
+  font-family: Merriweather;
+}
+
+#site-header {
+  background-color: white;
+}
+
+blockquote {
+  color: rgb(81, 0, 0);
+}
+
+svg {
+  color: rgb(81, 0, 0);
+}
+
+hr {
+  color: rgb(81, 0, 0);
+  opacity: 1;
+  border-width: 2px;
+}
+
+table td, table th {
+  color: black;
+  border-style: dashed;
+  border-color: rgb(81, 0, 0);
+  font-family: Merriweather;
+}
