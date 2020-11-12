@@ -45,4 +45,6 @@ We don’t know what all MetaSpace is, we only know what it can be. If you belie
 - People are embodied.
 - People feel connected to the universe.
 
-**Welcome 🌹**
+#### Welcome 🌹, come join us on [Discord](https://discord.gg/fESVeGB)
+
+#### [<< Back](/)
